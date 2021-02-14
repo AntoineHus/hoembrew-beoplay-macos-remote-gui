@@ -1,1 +1,1 @@
-# hoembrew-beoplay-macos-remote-gui
+# homebrew-beoplay-macos-remote-gui
